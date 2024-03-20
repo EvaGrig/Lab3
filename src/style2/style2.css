@@ -1,0 +1,32 @@
+Body{
+	background:linear-gradient(333deg, #C8B0E5, #3B0D72, #1D093E) fixed;
+}
+.Date{
+	position:absolute;
+	top:15%;
+	left:10%;
+    font-size: 50px;
+    font-weight:100px;
+    color: #AFD3D3;
+    text-shadow: 0px 0px 15px #24044A, 0px 0px 20px #24044A,
+	    0px 0px 20px #24044A, 0px 0px 30px #24044A;
+}
+.Hours{
+	position:absolute;
+	top:60%;
+	left:32%;
+    font-size: 50px;
+    font-weight:100px;
+    color: #C6FCFF;
+    text-shadow: 0px 0px 15px #24044A, 0px 0px 20px #24044A,
+      	0px 0px 20px #24044A, 0px 0px 30px #033844;
+}
+.Ram{
+	position:absolute;
+	top:30%;
+	left:27%;
+	width: 700px;
+    height: 200px;
+    border-radius: 40px;
+	box-shadow: -2px -2px 10px rgba(255, 255, 255, 0.5);
+}
